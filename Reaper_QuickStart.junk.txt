@@ -1,0 +1,185 @@
+Quick Start 
+Guide
+For more information, 
+see the PDF User 
+Guide, the REAPER 
+Power book, or visit 
+forum.cockos.com
+Setup
+Audio Click on audio info at right side of menu bar, or
+Options ► Preferences [Ctrl+P] ► Audio ► Device
+VST plug-ins Options ► Preferences [Ctrl+P] ►Plug-ins ► VST
+Configure MIDI devices Options ► Prefs [Ctrl+P] ►Audio ► MIDI Devices
+Control surface Options ► Preferences [Ctrl+P] ► Control Surfaces
+General
+Set edit cursor Click timeline
+Define loop selection Click and drag timeline, [Esc] clears
+Define time selection Click and drag empty track area, [Esc] clears
+Link loop/time sel Options ► Loop points linked to time sel
+Toggle loop playback [R] or use Transport Bar
+Set time sel to item [Shift]+double-click on item
+Move time selection [Shift] drag with mouse, [Shift+Ctrl] ignores snap
+Snap to grid Magnet button on toolbar, right-click for settings
+Recording and Playback
+Create / save file File ► New Project [Ctrl+N] / Save [Ctrl+S]
+Insert track(s) Insert ► Track [Ctrl+T] or double-click below last 
+track
+Name tracks Double-click track name area
+Insert click source Select track, Insert ► Click Source
+Insert synth track Insert ► Virtual instrument on new track
+Arm for recording Click on track(s) record arm button
+Assign track input(s) Right-click track(s) record arm button
+Monitor track input Right-click track(s) record arm button
+Record start/stop [Ctrl+R]/[Space], or use transport bar
+Play/stop project [Space], or use transport bar
+Pause project [Enter], or use transport bar
+Record new take(s) Record on track with existing take, [Ctrl+L] for lanes
+Overdub time/items Options ► Record mode
+Tape style recording Options ► Trim content behind items when 
+recording
+Render Audio to File
+Render project to file File ► Render [Ctrl+Alt+R] ► Master Mix
+Render selected tracks File ► Render [Ctrl+Alt+R] ► Stems
+Consolidate media
+for export File ► Consolidate/export tracks
+Render items with FX Right-click item ► Apply track FX as new take
+Render items for use by 
+another application
+[Ctrl+Alt]+drag item to render new item, 
+[Shift+Ctrl+Alt]+drag to export existing file
+Tracks
+Show/hide mixer View ► Mixer, or [Ctrl+M]
+Insert FX, envelopes Track control buttons, right-click for options
+Create sends Drag/drop from track I/O button to destination track
+Create submix Insert track above submix tracks, click folder button
+Save/load track 
+template Track ► Save/insert track template
+Extended Mixer 
+Show extended mixer
+(sends, FX inserts, 
+more)
+Drag top edge of mixer upwards
+Customize mixer view Right-click empty mixer space, or MASTER label
+Navigation
+Go project start [W] or [Home] or use transport bar
+Go project end [End] or use transport bar
+Go next/prev track [Ctrl+Alt+Down] / [Ctrl+Alt+Up]
+Zoom in horizontal [-] minus key or mousewheel
+Zoom out horizontal [+] plus key or mousewheel
+Zoom in vertical [PageUp] or [Ctrl]+mousewheel
+Zoom out vertical [PageDown] or [Ctrl]+mousewheel
+Zoom to time sel [Ctrl+PageUp]
+Zoom to project [Ctrl+PageDown] or double-click scroll bar
+Scroll horizontal [Alt]+mousewheel
+Scroll vertical [Ctrl+Alt]+mousewheelQuick Start 
+Guide
+For more information, 
+see the PDF User 
+Guide, the REAPER 
+Power book, or visit 
+forum.cockos.com
+Item Editing
+Import media item View ► Media Explorer, or Insert ► Media File, or 
+drag+drop into REAPER
+Marquee select items Right-drag
+Move Item Drag item, or cut+paste, [Shift] ignores snap
+Copy Item [Ctrl]+drag item, or copy+paste, [Shift] ignores snap
+Edit item position, loop, 
+fades, pitch, etc Right-click item ►Item properties, or [F2]
+Edit item start/end Drag item left or right edge
+Loop item Drag item right edge further right
+Edit item fadein/out Drag item fade handle
+Change fade shape Right-click fade, [Shift]+right-click for crossfades
+Crossfade items Enable auto-crossfades (toolbar) and drag items, or 
+select items and time ► [X]
+Move crossfade [Shift]+drag crossfade edge
+Split items Select item and place edit cursor ► [S]
+Move splits Drag shared edge between items
+Delete part of Item Select item and time ► [Ctrl+Delete]
+Edit item volume Drag down from top edge of item
+Glue items (as new file) Select items, right-click ►Glue selected items
+Timestretch item [Alt]+drag item edge
+Slip item contents [Alt]+drag item
+Tape style editing Options ► Trim content behind items when editing
+Takes and Comping 
+Display takes in lanes [Ctrl+L]
+Split at edit cursor Select item, then right-click, Split Items [S]
+Select take Click take
+Next/previous take [T], [Shift+T]
+Crop to active take [Alt+Shift+T]
+Explode takes Right-click item ► Take ► Explode...
+Select next/prev take [T] / [Shift+T]
+Play all takes [F2] ► Play all takes
+Add FX to take Right-click item ► Take ► Show FX chain
+Create take envelope Right-click item ► Take ►Take envelope 
+Free Item Positioning Right-click track number ► Enable free item pos
+MIDI Devices and Editing
+Assign MIDI controls to 
+REAPER actions Actions ► Show action list [?]
+MIDI panic Actions ► Send all notes off [F3]
+Reset MIDI hardware Actions ►Reset all MIDI devices
+Add MIDI track control Right-click track number ► Show MIDI control
+Open MIDI editor Double-click MIDI item
+Open in-line editor Select MIDI item ►[E]
+Explode pitch/channel Right-click MIDI item ► Item processing ►
+Explode 
+Track and Item FX
+Change FX order Drag and drop up/down FX chain
+Float individual FX Double click FX name in FX chain
+Save/load FX chain FX chain window ► FX ► Save/load FX Chain
+Adjust wet/dry FX mix Wet/dry control, top right of FX window (Wet %)
+Bypass one FX Uncheck box in FX chain or FX window
+Bypass track FX Click track FX bypass button (next to FX button)
+Bypass all FX [Ctrl]+click any track FX bypass button
+FX parameter envelopes, 
+MIDI learn, track knobs Move FX knob, click Param button
+Automation Envelopes 
+Create track envelopes Track env button, or [V] for volume, [P] for pan
+Create/delete env points [Shift]+click / [Alt]+click envelope
+Edit env segments Drag segment
+Edit segment curvature [Alt]+drag segment
+Freehand draw envelope [Ctrl]+drag in envelope lape
+Set automation mode Track env buttonQuick Start 
+Guide
+For more information, 
+see the PDF User 
+Guide, the REAPER 
+Power book, or visit 
+forum.cockos.com
+Actions
+Open Actions list Actions ► Show Action list [?]
+Search for action Enter search words in Action list filter box
+Assign or change action 
+keyboard/MIDI shortcut Select action, edit Shortcuts for Selected Action
+Assign actions to menus 
+or toolbar buttons Options ► Customize menus/toolbars
+Tempo and Time Signature
+Set project tempo Edit BPM field in transport
+Tap tempo Click BPM button on transport
+Set project time 
+signature
+Click current tempo/time signature display on 
+transport
+Show project tempo/
+time signature map
+View ► Master Track [Ctrl+Shift+M], click Env 
+button, click Tempo Map Visible
+Create timeline tempo/
+time signature changes Right-click timeline ► Insert time signature marker
+Create tempo map from 
+recorded material
+Make time selection, right-click timeline ► Create 
+measure from time selection
+Markers and Regions
+Create marker at cursor [M], or [Shift+M] for named marker
+Create region Select time, [Shift+R]
+Name marker or region [Shift]+double-click marker or region number
+Go to marker [Marker Number], or [Ctrl+J]
+Move/copy region Drag / [Ctrl]+drag
+Delete marker or region [Alt]+click marker or region number
+General Advice
+Right-click everything to find out what it does
+Use the Actions list
+See REAPER tips by right-clicking the area just above the transport
+forum.cockos.com is a valuable resource
+Have fun!

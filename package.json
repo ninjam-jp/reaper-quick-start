@@ -1,0 +1,26 @@
+{
+  "name": "reaper-quick-start",
+  "version": "0.0.0",
+  "description": "Japanese Translation REAPER Quick Start PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninjam-jp/reaper-quick-start.git"
+  },
+  "keywords": [
+    "Reaper"
+  ],
+  "author": "tea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninjam-jp/reaper-quick-start/issues"
+  },
+  "homepage": "https://github.com/ninjam-jp/reaper-quick-start",
+  "dependencies": {
+    "js-yaml": "^3.2.2",
+    "yaml": "^0.2.3"
+  }
+}
