@@ -29,13 +29,13 @@ General:
       Options ► Loop points linked to time sel
 
     Toggle loop playback:
-      [R] or use Transport Bar
+      \[R] or use Transport Bar
 
     Set time sel to item:
-      [Shift]+double-click on item
+      \[Shift]+double-click on item
 
     Move time selectio:
-      [Shift] drag with mouse, [Shift+Ctrl] ignores snap
+      \[Shift] drag with mouse, [Shift+Ctrl] ignores snap
 
     Snap to grid:
       Magnet button on toolbar, right-click for settings
@@ -68,13 +68,13 @@ Recording and Playback:
       input Right-click track(s) record arm button
 
     Record start/stop:
-      [Ctrl+R]/[Space], or use transport bar
+      \[Ctrl+R]/[Space], or use transport bar
 
     Play/stop project:
-      [Space], or use transport bar
+      \[Space], or use transport bar
 
     Pause project:
-      [Enter], or use transport bar
+      \[Enter], or use transport bar
 
     Record new take(s):
       Record on track with existing take, [Ctrl+L] for lanes
