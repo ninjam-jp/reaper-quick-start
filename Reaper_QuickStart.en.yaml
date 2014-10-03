@@ -1,10 +1,90 @@
 Setup:
+
     Audio:
       Click on audio info at right side of menu bar, or
       Options ► Preferences [Ctrl+P] ► Audio ► Device
 
     VST plug-ins:
       Options ► Preferences [Ctrl+P] ►Plug-ins ► VST
-    
+
+    Configure MIDI devices:
+      Options ► Prefs [Ctrl+P] ►Audio ► MIDI Devices
+
+    Control surface:
+      Options ► Preferences [Ctrl+P] ► Control Surfaces
+
+
+General:
+
+    Set edit cursor:
+      Click timeline
+
+    Define loop selection:
+      Click and drag timeline, [Esc] clears
+
+    Define time selection:
+      Click and drag empty track area, [Esc] clears
+
+    Link loop/time sel:
+      Options ► Loop points linked to time sel
+
+    Toggle loop playback:
+      [R] or use Transport Bar
+
+    Set time sel to item:
+      [Shift]+double-click on item
+
+    Move time selectio:
+      [Shift] drag with mouse, [Shift+Ctrl] ignores snap
+
+    Snap to grid:
+      Magnet button on toolbar, right-click for settings
+
+
+Recording and Playback:
+
+    Create / save file:
+      File ► New Project [Ctrl+N] / Save [Ctrl+S]
+
+    Insert track(s):
+      Insert ► Track [Ctrl+T] or double-click below last track
+
+    Name tracks:
+      Double-click track name area
+
+    Insert click source:
+      Select track, Insert ► Click Source
+
+    Insert synth track:
+      Insert ► Virtual instrument on new track
+
+    Arm for recording Click on track(s):
+      record arm button
+
+    Assign track input(s):
+      Right-click track(s) record arm button
+
+    Monitor track:
+      input Right-click track(s) record arm button
+
+    Record start/stop:
+      [Ctrl+R]/[Space], or use transport bar
+
+    Play/stop project:
+      [Space], or use transport bar
+
+    Pause project:
+      [Enter], or use transport bar
+
+    Record new take(s):
+      Record on track with existing take, [Ctrl+L] for lanes
+
+    Overdub time/items:
+      Options ► Record mode
+
+    Tape style recording:
+      Options ► Trim content behind items when
+
+
     Key:
       Value
